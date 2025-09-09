@@ -1,7 +1,11 @@
 # sidebar
 
+<p align="center">
+  <img alt="Sidebar Menu" src=".github/sidebar_menu.png" width="100%">
+</p>
+
 ## Descrição
-**sidebar** menu lateral responsivo utilizando **HTML**, **CSS** e **JavaScript**, existe funcionalidades do **CSS**, como **FLEXBOX** e **GRID**.
+**sidebar** - menu lateral responsivo utilizando **HTML**, **CSS** e **JavaScript**, existe funcionalidades do **CSS**, como **FLEXBOX** e **GRID**.
 
 ## Tecnologias Utilizadas
 - **HTML**
